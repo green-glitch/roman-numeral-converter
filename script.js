@@ -41,7 +41,6 @@ convertBtn.addEventListener('click', () => {
         romanNumeral = 'Please enter a number less than or equal to 3999';
     } else {
         romanNumeral = convertToRoman(number.value);
-        // romanNumeral = number.value;
     }
     output.innerHTML = romanNumeral;
 });
