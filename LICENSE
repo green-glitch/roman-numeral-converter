@@ -1,4 +1,4 @@
-<!-- MIT License
+MIT License
 
 Copyright (c) 2025 Krzysztof Kalinowski
 
@@ -18,23 +18,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. -->
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Roman Numeral Converter</title>
-</head>
-<body>
-    <div id="block">
-    <h1>Roman Numeral Converter</h1>
-    <input type="number" id="number" placeholder="Enter a number">
-    <button id="convert-btn">Convert</button>
-    <p id="output" class="bold"></p>
-    </div>
-    <script src="script.js"></script>
-</body>
-</html>
+SOFTWARE.
